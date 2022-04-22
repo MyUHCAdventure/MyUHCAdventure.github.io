@@ -71,7 +71,7 @@ That’s right! You can’t complete this form with Mozilla Firefox, either! And
 ## Do It All Over Again
 As you can imagine, I was back at the beginning and had to do the “security” dance. After getting my code, I reentered my member ID, group ID, and birthday. I reentered my spouse’s name and birthday. I reentered the TIN… er FEIN and provider NPI. And eventually I got to the search form and entered my doctor’s practice name and zip code and hit search…
 
-Success!
+Success! I was apparently searching for my provider in their database, or something. It would have been nice if the button had been labeled "Search for Provider" or "Provider Search".
 
 ## The Boss
 I could tell I was nearing the endgame at this point. I pulled out the magic scroll given to me by my doctor. It contained a number of bizarre incantations, but the form on the web site seemed to know about all of them. First, there’s a list of diagnostic codes. There’s one for every single ailment you discussed with your doctor. As you can imagine, they are random strings of letters and digits separated by periods. So I knew this was going to be a tough battle, but I was sure I could win it.
