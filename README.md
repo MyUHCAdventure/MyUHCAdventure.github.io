@@ -91,6 +91,8 @@ Whatever! I press the “Next” button prepared to slay another beast. This is 
 
 I press the submit button and am told that they will think about it and get back to me to let me know whether I’ve won $450.00 or not in 1 to 3 weeks. I eagerly await my potential prize. I hope I am not disappointed.
 
+UPDATE: About 3 weeks later I received a notice that I had won ~$215.00! Not bad for a first try. I'm sure there are some puzzles that I probably missed on the side quests that would boost my final score. We'll see next month when my spouse returns to this doctor for further treatment!
+
 ## Parting Thoughts
 Overall, this game was quite a challenge! As mentioned, this game does sometimes push the limits of believability. I mean, a form that can add or remove slashes, but can’t remove periods? It doesn’t even make sense. But if you can overlook that, you can start to appreciate the brain teasers it presents.
 
