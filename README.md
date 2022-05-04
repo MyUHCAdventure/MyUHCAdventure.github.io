@@ -13,8 +13,7 @@ So let’s get to it. You recently went to a doctor who refuses to accept insura
 You start by logging into myuhc.com using your HealthSafe™ account at https://myuhc.com/ with your preferred browser on any computer or smart phone. (A HealthSafe™ ID is similar to an Xbox GamePass, or similar ID on other gaming systems.) I was playing on macOS, so I chose Safari. (Note: We will return to this important point later!) When you do, you’ll be greeted with a series of progress bars that don’t seem to be doing anything specific. One fills up, then another one starts immediately. You can see hundreds of addresses flash by in an instant in your browser’s URL bar. I think this was a shout out to the long loading time of games past played on Commodore 64s, Apple IIs, and Atari 400/800s. But pay no mind, once the page finally loads, it will be full of information you don’t understand. Your first job is to figure out where to click to submit a claim. Fail that test and it’s game over for you.
 
 
-
-<TODO: Insert Movie Here>
+https://user-images.githubusercontent.com/104092590/166817575-d4201a01-8d44-49b3-bb9a-8be8238d9833.mov
 
 
 There is a button labeled “Claims and Accounts,” but of course, it’s not that easy. (If you’re on mobile, you’ll need to access “Claims and Accounts” from the “hamburger” menu.) When you click it, it not only opens a horizontal menu below your choice, but also loads a new page with lots more confusing information on it! Next, you have to click “Submit a Claim.” Once you click on that, there are 4 additional options and you need to choose the right one or you’ll end up on the wrong form submitting incorrect information. (What happens if you submit the wrong info? I didn’t have the guts to find out!) In my case, this was a normal medical visit my spouse had with a neurologist, so I chose “Medical Claims.” Note that if you saw a mental health professional, that’s not technically a “medical” visit according to United Healthcare lore. You need to choose the option specifically for mental health in that case. I don’t recall why they separate them out, but I’m sure some astute reader can point out the event in the mythology of their universe that caused this schism we don’t have in the real world.
@@ -22,7 +21,7 @@ There is a button labeled “Claims and Accounts,” but of course, it’s not t
 ## Submitting a Claim
 Choosing the above option was confusing enough on its own, but what happens next makes basically no sense. Remember earlier when I said I was using Safari? Well, it turns out that each browser has a different response to choosing a claim form. I’ll discuss what happens in other browsers in a later section. When I clicked on “Medical Claims,” Safari opened a new tab, but showed no page. The address looked like the same address as the page I came from and it was selected. (I switched back and forth between the tabs to see if I was missing some clue that would explain why the page wasn’t loading.) After about 10 seconds of doing nothing and giving no feedback, it suddenly loaded. And sure enough, it loaded the page I had just come from. That’s odd, I thought. I know I clicked on “Medical Claims”. I was about to click on it again when it suddenly sprung into action and loaded the medical claims page! I *had* done it correctly! I just hadn’t waited long enough. I’m sure there was some sort of riddle or clue on the preceding page that would make this make sense, but I did not get it. Luckily, I figured it out by coincidence.
 
-<TODO: Insert Movie here>
+https://user-images.githubusercontent.com/104092590/166817627-3d04ed15-4c5a-494e-8326-67ddbcf244df.mov
 
 At this point you’re presented with instructions for what to do next. If the claim is related to COVID-19, you’ve got the wrong form and you need to go back to the previous page. (And here’s where it’s dastardly! You’ll notice the back button doesn’t work. Remember this opened the page in a new tab. Those game designers sure do make things tough!) In any event, this is the right form for my case, so I clicked on the “Start New Claim” button.
 
@@ -34,7 +33,7 @@ Anyway, once I get the code sent to my insecure email that anyone at my ISP can 
 ## Who, What, Where, When and Why?
 Next you’re prompted for whether this claim is for you or a dependent. I select dependent since it’s about my spouse. Now you probably thought that you had already chosen the type of claim back on the “Medical Claims” page. But they now ask you again about what type it is and even have entries for “Prescription Claim” (which if you recall was a different form on the previous page) and “COVID-19” (also a different form) as well as “Wig”. (I may chose that one next time! I’ve always wondered how I would look with a different hair style that I’m too afraid to actually try, knowing that it will take weeks or months to grow back if I don’t like it.) The choice you want is “Medical Claim (All other reimbursement types)”. 
 
-<TODO: Insert image here>
+![ReimbursementType](https://user-images.githubusercontent.com/104092590/166820117-fef62cfe-89bd-4fe4-934d-292b70c26b70.png)
 
 It was very clever of them to make the most common answer be right in the middle of the list surrounded by options that aren’t valid options! That should cut down on brute force solving of the puzzle.
 
@@ -49,7 +48,7 @@ Remember at the start of this I mentioned that you need to have a real bill from
 
 For most of the rest of the game you are asked to copy data from the form your doctor gave you into the form in your web browser. Obviously, this game is a period piece so you have to do it manually. I think that’s pretty realistic for the period they’re trying to emulate. Nowadays, they would, of course, automate scanning the superbill using Optical Character Recognition to pull the information out for you and just have you check it over before clicking submit. Even my cell phone can do that!
 
-<TODO: Insert picture of form here>
+![Superbill](https://user-images.githubusercontent.com/104092590/166818605-0155214b-e2ec-43aa-9a92-61f5b569be0f.png)
 
 But they don’t just have you copy the information since that wouldn’t be very fun or helpful. Instead, they’ve come up with a different name for each part of the bill and you first have to translate the name they used into the one used by your doctor (and most of the rest of the world). It starts with something they call a “TIN”. They call it a “Tax Identifier Number”. That’s not it’s name in the real world. It’s actually called an FEIN or just an EIN - a Federal Employer Identification Number. It’s like a Social Security number for a person, but for a business. And remember how when I entered my spouse’s birthday, it helpfully filled in the extra slashes between the day, month, and year? Well here you have to remember *not* to enter the dashes that are part of the FEIN because the form will not accept the number if you leave them in!
 
